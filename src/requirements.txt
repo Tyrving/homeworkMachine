@@ -1,2 +1,2 @@
-google
-beautifulsoup4
+google==3.0.0
+beautifulsoup4==4.9.3
